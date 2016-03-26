@@ -1,4 +1,4 @@
-##Generates an allocation that is envy-free to the smallest good, as well as providing a random-preference generator. Allocations are generated according to the following algorithm:
+##Generates an allocation that is envy-free to the smallest good, as well as providing a random-preference generator and a repeated random-preference tester. Allocations are generated according to the following algorithm:
 
 ###First, define 3 sets of inequalities:
 
